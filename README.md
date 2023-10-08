@@ -91,6 +91,3 @@ Access the application on your browser by navigating to `http://localhost:8080`.
 - **Meal Plan Features**: Add features to create and manage meal plans.
 - **Security**: Transition to HTTPS for more secure frontend-backend communication.
 
----
-
-Again, sorry for the oversight earlier. This should provide a more balanced view of your project.
